@@ -21,7 +21,6 @@ Vários trabalhos procurando buscar uma solução ótima, utilizando coloração
   </li>
   <li>
   <i>Simulated Annealing</i> aplicado a um problema de roteirização e programação de veículos, elaborado no Instituto Nacional de Pesquisas Espaciais, apresentou uma nova abordagem para o problema de roteirização de veículos, na qual comparada a dois resultados obtidos na literatura, foi capaz de melhorar a qualidade do serviço, ou seja, foi capaz de atender aos clientes mais rapidamente, porém apresentou um acréscimo na distância percorrida pelos veículos  <i>[Mauri et al., 2006]</i>.
-\end{itemize} 
   </li>
 </ul> 
 
